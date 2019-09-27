@@ -1,0 +1,10 @@
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\obj\Debug\flython_demo.csprojResolveAssemblyReference.cache
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\obj\Debug\flython_demo.Form1.resources
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\obj\Debug\flython_demo.Properties.Resources.resources
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\obj\Debug\flython_demo.csproj.GenerateResource.Cache
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\bin\Debug\flython_demo.exe
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\bin\Debug\flython_demo.pdb
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\obj\Debug\flython_demo.exe
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\obj\Debug\flython_demo.pdb
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\bin\Debug\Newtonsoft.Json.dll
+c:\Users\544D\Documents\Visual Studio 2015\Projects\flython_demo\flython_demo\bin\Debug\Newtonsoft.Json.xml

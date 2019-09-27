@@ -1,0 +1,20 @@
+0:{'name': 'Marrakesh Menara Airport', 'adress': 'RAK Mhamid saada 6 n209، 40000, Morocco', 'lat': '31.602376', 'lng': '-8.0236679', 'rating': '3.3'}
+1:{'name': 'Casablanca Mohammed V International Airport', 'adress': 'Route de Nouasseur, Casablanca, Morocco', 'lat': '33.3699704', 'lng': '-7.585723100000001', 'rating': '2.9'}
+2:{'name': 'Rabat-Salé Airport', 'adress': 'Salé, Morocco', 'lat': '34.0361152', 'lng': '-6.7480954', 'rating': '3.9'}
+3:{'name': 'Agadir Al-Massira International Airport', 'adress': 'BP 2000، Agadir 80000, Morocco', 'lat': '30.3299288', 'lng': '-9.4102859', 'rating': '3.3'}
+4:{'name': 'Fes Sais International Airport', 'adress': 'Aéroport Fes Saïss Oulad Tayeb, Maroc، Fes 30000, Morocco', 'lat': '33.9288242', 'lng': '-4.979356999999999', 'rating': '3.5'}
+5:{'name': 'Tangier Ibn Battuta Airport', 'adress': 'Aéroport Tanger-Ibn Batouta, Tanger, Morocco', 'lat': '35.72659549999999', 'lng': '-5.9150683', 'rating': '3.6'}
+6:{'name': 'Aéroport de Ouarzazate', 'adress': 'Ouarzazate 45000, Morocco', 'lat': '30.9350254', 'lng': '-6.908138999999999', 'rating': '3'}
+7:{'name': 'Casablanca Tit Mellil Airport', 'adress': 'Morocco', 'lat': '33.5966368', 'lng': '-7.466401499999999', 'rating': '4.1'}
+8:{'name': 'Beni Mellal Airport', 'adress': 'Morocco', 'lat': '32.3967064', 'lng': '-6.3277034', 'rating': '3.4'}
+9:{'name': 'Guelmim Airport', 'adress': 'Guelmim 81000, Morocco', 'lat': '29.0168463', 'lng': '-10.0512946', 'rating': '4.3'}
+10:{'name': 'Sania Ramel Airport', 'adress': '89 Avenu 9 Avril, Tétouan 93000 Avenu 9 Avril, Tétouan 93000, Morocco', 'lat': '35.5910917', 'lng': '-5.3310198', 'rating': '3.7'}
+11:{'name': 'Essaouira Mogador Airport', 'adress': 'Essaouira, Morocco', 'lat': '31.4030456', 'lng': '-9.6881834', 'rating': '4.8'}
+12:{'name': 'Oujda Airport', 'adress': 'Morocco', 'lat': '34.7872224', 'lng': '-1.9406228', 'rating': '3.7'}
+13:{'name': 'Zagora Airport', 'adress': 'Zagora, Morocco', 'lat': '30.2673116', 'lng': '-5.852966899999999', 'rating': '4.2'}
+14:{'name': 'Aéroport Errachidia Moulay Ali Chérif', 'adress': 'Errachidia, Morocco', 'lat': '31.9438793', 'lng': '-4.4004536', 'rating': '4.6'}
+15:{'name': 'Marrakech Menara Airport', 'adress': 'Ménara Massira 2 Bloc C Numéro 38, Marrakesh 40000, Morocco', 'lat': '31.6022553', 'lng': '-8.0261821', 'rating': '4.5'}
+16:{'name': 'Sidi Ifni Airport', 'adress': 'Sidi Ifni, Morocco', 'lat': '29.36833399999999', 'lng': '-10.180833', 'rating': '4'}
+17:{'name': 'Tan Tan Airport', 'adress': '82000, Morocco', 'lat': '28.4454415', 'lng': '-11.1590684', 'rating': '4.1'}
+18:{'name': 'Ben Slimane Airport', 'adress': 'Morocco', 'lat': '33.6535398', 'lng': '-7.226948899999999', 'rating': '5'}
+19:{'name': 'AEREOPORTO MENARA', 'adress': 'Marrakesh 40160, Morocco', 'lat': '31.6016439', 'lng': '-8.0265753', 'rating': '4.4'}

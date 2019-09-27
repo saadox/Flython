@@ -1,0 +1,20 @@
+0:{'name': 'Sheremetyevo - A.S. Pushkin international airport', 'adress': 'Khimki, Moscow Oblast, Russia, 141400', 'lat': '55.9736482', 'lng': '37.412503', 'rating': '3.7'}
+1:{'name': 'Pulkovo Airport', 'adress': 'Pulkovskoye Shosse, д. 41, лит. ЗИ, St Petersburg, Russia, 196140', 'lat': '59.80291259999999', 'lng': '30.2678391', 'rating': '4'}
+2:{'name': 'Domodedovo Moscow Airport', 'adress': 'Moscow Oblast, Russia', 'lat': '55.41030689999999', 'lng': '37.9024513', 'rating': '3.8'}
+3:{'name': 'Vnukovo International Airport', 'adress': 'Vnukovo, Moscow Oblast, Russia', 'lat': '55.59964799999999', 'lng': '37.2712341', 'rating': '4'}
+4:{'name': 'Sochi International Airport (Adler)', 'adress': 'Ulitsa Mira, 50, Adler, Krasnodar Krai, Russia, 354355', 'lat': '43.448316', 'lng': '39.9413558', 'rating': '4.1'}
+5:{'name': 'International Airport Kurumoch', 'adress': 'пос, Bereza, Samara Oblast, Russia, 443901', 'lat': '53.5077533', 'lng': '50.1475348', 'rating': '4.2'}
+6:{'name': 'Novosibirsk International Airport named after Alexander Pokryshkin', 'adress': 'Ob, Novosibirsk Oblast, Russia, 633104', 'lat': '55.01135410000001', 'lng': '82.652163', 'rating': '3.9'}
+7:{'name': 'Mezhdunarodnyy Aeroport Strigino', 'adress': 'ul. Bezvodnaya, Nizhny Novgorod, Nizhny Novgorod Oblast, Russia, 603069', 'lat': '56.2258675', 'lng': '43.7843145', 'rating': '3.7'}
+8:{'name': 'Kazan Airport', 'adress': 'Ulitsa Aeroport, 1, Kazan, Tatarstan, Russia, 420017', 'lat': '55.6080657', 'lng': '49.28105069999999', 'rating': '3.9'}
+9:{'name': 'Yemelyanovo International Airport', 'adress': 'Krasnoyarsk Krai, Russia, 663021', 'lat': '56.1767877', 'lng': '92.4813965', 'rating': '3.8'}
+10:{'name': 'Roshchino International Airport', 'adress': "Ulitsa Sergeya Il'yushina, 23, Tyumen, Tyumen Oblast, Russia, 625017", 'lat': '57.1814766', 'lng': '65.3487664', 'rating': '3.5'}
+11:{'name': 'Vladivostok International Airport', 'adress': 'ул. Владимира Сайбеля, 41, Artem, Primorsky Krai, Russia, 692756', 'lat': '43.3948533', 'lng': '132.1477422', 'rating': '4'}
+12:{'name': 'Koltsovo Airport', 'adress': 'ul. Bahchivandji, 1, Yekaterinburg, Sverdlovsk Oblast, Russia, 620025', 'lat': '56.7447746', 'lng': '60.8029485', 'rating': '4.4'}
+13:{'name': 'Orenburg Airport', 'adress': 'улица Авиаторов, д. 1, Аэропорт, Orenburg Oblast, Russia, 460049', 'lat': '51.7914657', 'lng': '55.4573784', 'rating': '2.9'}
+14:{'name': 'Novokuznetsk Airport', 'adress': 'Prokopyevsk, Kemerovo Oblast, Russia, 654009', 'lat': '53.8035238', 'lng': '86.8634095', 'rating': '3.6'}
+15:{'name': 'Krasnodar International Airport', 'adress': 'Ulitsa Yevdokii Bershanskoy, 355, Krasnodar, Krasnodar Krai, Russia, 350912', 'lat': '45.03348219999999', 'lng': '39.1392925', 'rating': '3.1'}
+16:{'name': 'Ulyanovsk Vostochny Airport', 'adress': 'Ulyanovsk Oblast, Russia, 433400', 'lat': '54.4138397', 'lng': '48.80048009999999', 'rating': '3.4'}
+17:{'name': 'Zhukovsky International Airport', 'adress': 'Ulitsa Narkomvod, 3, Zhukovskiy, Moscow Oblast, Russia, 140185', 'lat': '55.5619117', 'lng': '38.1180579', 'rating': '3.4'}
+18:{'name': "Aeroport Mineral'nyye Vody", 'adress': 'Mineralnye Vody, Stavropol Krai, Russia, 357205', 'lat': '44.21776879999999', 'lng': '43.0877252', 'rating': '3.7'}
+19:{'name': 'Simferopol International Airport', 'adress': "Симферополь, пгт., Mal'chenka St, 16, Aeroflots'kyi", 'lat': '45.0191094', 'lng': '33.9972944', 'rating': '3.8'}

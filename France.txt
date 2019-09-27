@@ -1,0 +1,20 @@
+0:{'name': 'Charles de Gaulle Airport', 'adress': '95700 Roissy-en-France, France', 'lat': '49.0096906', 'lng': '2.5479245', 'rating': '3.3'}
+1:{'name': 'Orly Airport', 'adress': '94390 Orly, France', 'lat': '48.7262433', 'lng': '2.3652472', 'rating': '3.3'}
+2:{'name': "Nice Côte d'Azur Airport", 'adress': 'Rue Costes et Bellonte, 06206 Nice, France', 'lat': '43.6597689', 'lng': '7.214821400000001', 'rating': '3.4'}
+3:{'name': 'Lyon-Saint Exupéry Airport', 'adress': '69125 Colombier-Saugnieu, France', 'lat': '45.7234181', 'lng': '5.0887768', 'rating': '2.8'}
+4:{'name': 'Marseille Provence Airport', 'adress': '13700 Marignane, France', 'lat': '43.4384235', 'lng': '5.214414', 'rating': '3.1'}
+5:{'name': 'Air France', 'adress': '06200 Nice, France', 'lat': '43.659536', 'lng': '7.206152599999999', 'rating': '2'}
+6:{'name': 'Bordeaux Airport', 'adress': '33700 Mérignac, France', 'lat': '44.8305935', 'lng': '-0.7103052', 'rating': '2.2'}
+7:{'name': 'Paris Beauvais Airport', 'adress': "Route de l'Aéroport, 60000 Tillé, France", 'lat': '49.4544677', 'lng': '2.1115111', 'rating': '2.3'}
+8:{'name': 'Air France', 'adress': 'Avenue O, 94390 Orly, France', 'lat': '48.7266576', 'lng': '2.3587326', 'rating': '2.7'}
+9:{'name': 'Toulouse-Blagnac Airport', 'adress': '31703 Blagnac, France', 'lat': '43.6293863', 'lng': '1.367682', 'rating': '3.5'}
+10:{'name': 'Nantes Atlantique Airport', 'adress': '44346 Bouguenais, France', 'lat': '47.15741879999999', 'lng': '-1.6062316', 'rating': '2.6'}
+11:{'name': 'Montpellier-Méditerranée Airport', 'adress': 'CS 10001 Mauguio Cedex, 34137, France', 'lat': '43.5795991', 'lng': '3.9652372', 'rating': '3.8'}
+12:{'name': 'Caen – Carpiquet Airport', 'adress': 'Route de Caumont, 14650 Carpiquet, France', 'lat': '49.183191', 'lng': '-0.4594301999999999', 'rating': '3.5'}
+13:{'name': 'Pyrenees Airport', 'adress': "Route de l'Aéroport, 64230 Uzein, France", 'lat': '43.3811099', 'lng': '-0.4176115', 'rating': '3.7'}
+14:{'name': 'EuroAirport Basel-Mulhouse-Freiburg', 'adress': '68300 Saint-Louis, France', 'lat': '47.5981647', 'lng': '7.525485499999999', 'rating': '3.4'}
+15:{'name': 'Airport Rennes Bretagne', 'adress': 'Avenue Joseph le Brix, 35136 Saint-Jacques-de-la-Lande, France', 'lat': '48.06978429999999', 'lng': '-1.734365', 'rating': '3.2'}
+16:{'name': 'Biarritz Airport', 'adress': "7 Espl. de l'Europe, 64600 Anglet, France", 'lat': '43.4688232', 'lng': '-1.5280305', 'rating': '3.3'}
+17:{'name': 'Tours Val de Loire Airport', 'adress': "40 Rue de l'Aéroport, 37100 Tours, France", 'lat': '47.4259048', 'lng': '0.7196405', 'rating': '3'}
+18:{'name': 'Paris Airport-Le Bourget', 'adress': '1 Rue Désiré Lucca, 93350 Le Bourget, France', 'lat': '48.9614725', 'lng': '2.437202', 'rating': '4.2'}
+19:{'name': 'Clermont-Ferrand Auvergne Airport', 'adress': '1 Rue Adrienne Bolland, 63510 Aulnat, France', 'lat': '45.7872494', 'lng': '3.1642627', 'rating': '3.4'}

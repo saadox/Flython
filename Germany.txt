@@ -1,0 +1,20 @@
+0:{'name': 'Frankfurt Airport', 'adress': '60547 Frankfurt, Germany', 'lat': '50.0379326', 'lng': '8.562151799999999', 'rating': '3.7'}
+1:{'name': 'Berlin Tegel Airport', 'adress': 'Zufahrt zum Flughafen Tegel, 13405 Berlin, Germany', 'lat': '52.5588327', 'lng': '13.2884374', 'rating': '2.5'}
+2:{'name': 'Munich International Airport', 'adress': 'Nordallee 25, 85356 Freising, Germany', 'lat': '48.3536621', 'lng': '11.7750279', 'rating': '3.9'}
+3:{'name': 'Düsseldorf International Airport', 'adress': 'Flughafenstraße 105, 40474 Düsseldorf, Germany', 'lat': '51.2876146', 'lng': '6.7667912', 'rating': '3.5'}
+4:{'name': 'Cologne Bonn Airport', 'adress': 'Kennedystraße, 51147 Köln, Germany', 'lat': '50.8707168', 'lng': '7.140734399999999', 'rating': '3.7'}
+5:{'name': 'Stuttgart Airport', 'adress': 'Flughafenstraße 32, 70629 Stuttgart, Germany', 'lat': '48.6876365', 'lng': '9.205575999999999', 'rating': '3.8'}
+6:{'name': 'Berlin Schönefeld Airport', 'adress': 'Flughafen Schönefeld, 12521 Berlin, Germany', 'lat': '52.37331529999999', 'lng': '13.5064497', 'rating': '2.2'}
+7:{'name': 'Hamburg Airport', 'adress': 'Flughafenstr. 1-3, 22335 Hamburg, Germany', 'lat': '53.633622', 'lng': '9.9974128', 'rating': '3.6'}
+8:{'name': 'Flughafen Karlsruhe / Baden-baden', 'adress': 'Flughafen Karlsruhe / Baden-Baden, Victoria Boulevard 106A, 77836 Rheinmünster, Germany', 'lat': '48.7781001', 'lng': '8.0875217', 'rating': '3.6'}
+9:{'name': 'Frankfurt-Hahn Airport', 'adress': '55483 Hahn-Flughafen, Germany', 'lat': '49.9429026', 'lng': '7.262952899999999', 'rating': '3.4'}
+10:{'name': 'Berlin Brandenburg International Airport', 'adress': 'Melli-Beese-Ring 1, 12529 Schönefeld, Germany', 'lat': '52.36251290000001', 'lng': '13.5029785', 'rating': '3'}
+11:{'name': 'Bremen Airport', 'adress': 'Flughafenallee 20, 28199 Bremen, Germany', 'lat': '53.0479714', 'lng': '8.7858736', 'rating': '4'}
+12:{'name': 'Weeze Airport', 'adress': 'Flughafen-Ring 1, 47652 Weeze, Germany', 'lat': '51.6027581', 'lng': '6.1416517', 'rating': '3.6'}
+13:{'name': 'Zurich Airport', 'adress': '8058 Kloten, Switzerland', 'lat': '47.4582165', 'lng': '8.5554755', 'rating': '4.4'}
+14:{'name': 'Airport Nürnberg', 'adress': 'Flughafenstraße 100, 90411 Nürnberg, Germany', 'lat': '49.4971202', 'lng': '11.079808', 'rating': '4.1'}
+15:{'name': 'Erfurt-Weimar Airport', 'adress': 'Binderslebener Landstraße 100, 99092 Erfurt, Germany', 'lat': '50.9750666', 'lng': '10.9611616', 'rating': '3.9'}
+16:{'name': 'Hannover Airport', 'adress': 'Flughafenstraße 4, 30855 Langenhagen, Germany', 'lat': '52.4618486', 'lng': '9.6889919', 'rating': '3.7'}
+17:{'name': 'Dortmund Airport', 'adress': 'Flughafenring 2, 44319 Dortmund, Germany', 'lat': '51.517397', 'lng': '7.6122627', 'rating': '3.4'}
+18:{'name': 'Leipzig/Halle Airport', 'adress': 'Terminalring 11, 04435 Schkeuditz, Germany', 'lat': '51.4220814', 'lng': '12.2203805', 'rating': '4'}
+19:{'name': 'Memmingen Airport', 'adress': 'Am Flughafen 42, 87766 Memmingerberg, Germany', 'lat': '47.9865204', 'lng': '10.231525', 'rating': '3.5'}
