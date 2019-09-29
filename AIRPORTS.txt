@@ -1,0 +1,36 @@
+		List<airport> airports = new List<airport>();
+
+            try
+            {
+                ProcessStartInfo pf = new ProcessStartInfo();
+                pf.FileName     = @"C:\Program Files (x86)\Python37-32\python.exe";
+                pf.Arguments = string.Format("{0} {1}", "script.py", "Morocco");
+                pf.UseShellExecute = false;
+                pf.RedirectStandardOutput = true;
+                pf.CreateNoWindow = true;
+
+                using (Process p = Process.Start(pf))
+                {
+                    using (StreamReader s = new StreamReader(valueSelected))
+                    {
+                        string tmp = "";
+
+                        while ((tmp = s.ReadLine()) != null)
+                        {
+                            string t = tmp.Split(new char[] { ':' }, 2, StringSplitOptions.RemoveEmptyEntries)[1]; 
+                            airports.Add(JsonConvert.DeserializeObject<airport>(t));
+                        }
+                        s.Close();
+                    }
+
+                }
+
+                foreach (var item in airports)
+                    combobox.items.add(item.name)
+
+            }
+            catch (Exception x)
+            {
+                MessageBox.Show(x.Message);
+                Environment.Exit(Environment.ExitCode);
+            }
