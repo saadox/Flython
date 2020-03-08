@@ -14,7 +14,7 @@ inf = '''\n
 # ###############################
 \n'''
 
-KEY     = 'AIzaSyCp33R6kdjt8Qptb34t9kUuBw2p2M41MSY' # private_ key
+KEY     = '?' # private_ key
 LINK    = lambda x:'https://maps.googleapis.com/maps/api/place/textsearch/json?query='+str(x)+'&key='+KEY+'&type=airport'
 
 def ex__code(s):
